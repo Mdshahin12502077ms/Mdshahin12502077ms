@@ -1,16 +1,32 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2x6eG4wN3l6eDF2YjF5cXQ0bDVjODI0d2M0Y2VhM2RtaW91cHV4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" alt="Laravel Coding Banner" width="100%" />
+</p>
 
-<!--
-**Mdshahin12502077ms/Mdshahin12502077ms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Md Shahin</h1>
+<h3 align="center">PHP Laravel Developer from Bangladesh 🇧🇩</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 I’m currently working on **Laravel Web Applications**
+- 🌱 I’m currently learning **Advanced Laravel & API Development**
+- 💬 Ask me about **PHP, Laravel, MySQL, REST APIs**
+- ⚡ Fun fact: **I love building clean and scalable backend systems**
+
+---
+
+### 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📫 Connect With Me
+<p>
+  <a href="https://github.com/Mdshahin12502077ms"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
