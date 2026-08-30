@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="PHP Laravel Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/pmbanugo/pmbanugo/main/coding.gif" alt="Coding" width="60%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Shahin</h1>
