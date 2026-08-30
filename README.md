@@ -26,18 +26,16 @@
 
 ---
 
-### 🎮 Gaming Zone
+### ⚽ Football Gaming Zone
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Gaming GIF Banner" width="100%" />
+  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" alt="Football Gaming GIF Banner" width="100%" />
 </p>
 
 #### 🕹️ Favorite Games
 <p>
-  <img src="https://img.shields.io/badge/PUBG-232F3E?style=for-the-badge&logo=playerunknownsbattlegrounds&logoColor=F8B400" />
-  <img src="https://img.shields.io/badge/VALORANT-FA4454?style=for-the-badge&logo=valorant&logoColor=white" />
+  <img src="https://img.shields.io/badge/eFootball-00ADEF?style=for-the-badge&logo=playstation&logoColor=white" />
   <img src="https://img.shields.io/badge/FIFA-326295?style=for-the-badge&logo=ea&logoColor=white" />
-  <img src="https://img.shields.io/badge/GTA%20V-000000?style=for-the-badge&logo=rockstargames&logoColor=FCAF17" />
-  <img src="https://img.shields.io/badge/Call%20of%20Duty-111111?style=for-the-badge&logo=callofduty&logoColor=white" />
+  <img src="https://img.shields.io/badge/FC%2024-000000?style=for-the-badge&logo=ea&logoColor=white" />
 </p>
 
 ---
