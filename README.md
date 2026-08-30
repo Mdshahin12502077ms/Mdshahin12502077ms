@@ -27,10 +27,6 @@
 ---
 
 ### ⚽ Football Zone
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Real football banner" width="100%" />
-</p>
-
 #### 🏟️ Favorite Football Games
 <p>
   <img src="https://img.shields.io/badge/eFootball-00ADEF?style=for-the-badge&logo=playstation&logoColor=white" />
