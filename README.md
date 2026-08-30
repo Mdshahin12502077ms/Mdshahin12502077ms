@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="PHP Laravel Code Terminal Banner" height="50%" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="PHP Laravel Code Terminal Banner" height="400px" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Shahin</h1>
