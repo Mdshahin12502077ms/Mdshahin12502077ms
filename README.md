@@ -27,6 +27,10 @@
 ---
 
 ### ⚽ Football Zone
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNzM2l0NTExMHN2azBkNXVtY3RjYXE2bnFhN3l2b3p0MXY4dDh3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8kRLZnmWIG95b055FL/giphy.gif" height="400px" width="100%" />
+</p>
+
 #### 🏟️ Favorite Football Games
 <p>
   <img src="https://img.shields.io/badge/eFootball-00ADEF?style=for-the-badge&logo=playstation&logoColor=white" />
@@ -38,5 +42,5 @@
 
 ### 📫 Connect With Me
 <p>
-  <a href="https://github.com/Mdshahin12502077ms"><img src="" /></a>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
