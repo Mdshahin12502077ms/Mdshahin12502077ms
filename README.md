@@ -26,6 +26,22 @@
 
 ---
 
+### 🎮 Gaming Zone
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Gaming GIF Banner" width="100%" />
+</p>
+
+#### 🕹️ Favorite Games
+<p>
+  <img src="https://img.shields.io/badge/PUBG-232F3E?style=for-the-badge&logo=playerunknownsbattlegrounds&logoColor=F8B400" />
+  <img src="https://img.shields.io/badge/VALORANT-FA4454?style=for-the-badge&logo=valorant&logoColor=white" />
+  <img src="https://img.shields.io/badge/FIFA-326295?style=for-the-badge&logo=ea&logoColor=white" />
+  <img src="https://img.shields.io/badge/GTA%20V-000000?style=for-the-badge&logo=rockstargames&logoColor=FCAF17" />
+  <img src="https://img.shields.io/badge/Call%20of%20Duty-111111?style=for-the-badge&logo=callofduty&logoColor=white" />
+</p>
+
+---
+
 ### 📫 Connect With Me
 <p>
   <a href="https://github.com/Mdshahin12502077ms"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
