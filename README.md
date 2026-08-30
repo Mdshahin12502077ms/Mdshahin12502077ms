@@ -38,5 +38,5 @@
 
 ### 📫 Connect With Me
 <p>
-  <a href="https://github.com/Mdshahin12502077ms"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Mdshahin12502077ms"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtqY2dxNTg3NW05bmpla2k3a2kxbGczMGxwY2diNGkyYW1kYXB2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KA6yFMH1DENEOfjlqM/giphy.gif" /></a>
 </p>
