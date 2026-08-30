@@ -38,5 +38,5 @@
 
 ### 📫 Connect With Me
 <p>
-  <a href="https://github.com/Mdshahin12502077ms"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtqY2dxNTg3NW05bmpla2k3a2kxbGczMGxwY2diNGkyYW1kYXB2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KA6yFMH1DENEOfjlqM/giphy.gif" /></a>
+  <a href="https://github.com/Mdshahin12502077ms"><img src="" /></a>
 </p>
